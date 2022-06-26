@@ -2,7 +2,7 @@
 My Personal Repository
 
 
-Hi there, y name is Mikhaeel.
+Hi there, my name is Mikhaeel.
 I am a passionate Software Developer from Nigeria
 
 ABOUT ME
